@@ -1,0 +1,26 @@
+*{
+font-family:Andale mono, monospace;
+}
+
+h1{
+color: #e3d6e6;
+font-size: 45px;
+text-align: center;
+background-color: #64316f
+}
+
+p{
+color: #34143c;
+font-size: 20px;
+background-color: #e5d1ea
+}
+
+body{
+background-image: url('woah.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: #e3d6e6
+background-blend-mode: lighten; 
+background-color: #eed8f2
+}
